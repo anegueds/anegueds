@@ -23,4 +23,5 @@
     <img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117"/>&nbsp;
   </p>
 </details>
-          
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
