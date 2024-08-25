@@ -1,5 +1,5 @@
 <h2 align="left">Sobre Mim</h2>
-<p align="justify">Sou graduanda no primeiro período de sistemas de informação, atualmente estou focada no desenvolvimento frontend, estudando javascript, CSS, HTML. também estou iniciando o estudo em PHP para desenvolvimento backend para construir aplicações web completas.</p>
+<p align="justify">Sou estudante de sistemas de informação no primeiro período, atualmente estou focada no desenvolvimento frontend, estudando javascript, CSS, HTML. também estou iniciando o estudo em PHP para desenvolvimento backend para construir aplicações web completas.</p>
 
 ### Conecte-se Comigo
 
