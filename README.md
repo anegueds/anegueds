@@ -4,8 +4,7 @@
 ### Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](https://www.linkedin.com/in/thaianeguedes/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF69B4)](https://www.instagram.com/seu-perfil](https://www.instagram.com/aneguedz/?next=%2Fyakafv%2F))
-
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF69B4)](https://www.instagram.com/aneguedz/)
 
 ### GitHub Stats
 
